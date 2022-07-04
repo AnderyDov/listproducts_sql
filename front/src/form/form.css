@@ -1,0 +1,13 @@
+.form {
+  width: 20%;
+  padding: 2%;
+}
+fieldset {
+  background: rgb(233, 232, 232);
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.err {
+  color: red;
+  font-weight: 200;
+}

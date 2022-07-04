@@ -1,0 +1,21 @@
+.form {
+  width: 30%;
+  padding: 2%;
+}
+fieldset {
+  border-radius: 10px;
+  border: 2px solid black;
+  padding: 20px;
+}
+input {
+  margin-bottom: 10px;
+}
+textarea {
+  width: 100%;
+  min-height: 80px;
+}
+.form .err {
+  color: red;
+  font-weight: 200;
+  font-size: 16px;
+}

@@ -1,0 +1,9 @@
+.grafic {
+  width: 800px;
+  background: rgb(218, 218, 218);
+  border: 2px solid black;
+  padding: 10px;
+  resize: both;
+  overflow: auto;
+  margin-bottom: 20px;
+}
